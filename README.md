@@ -1,4 +1,5 @@
-## Entorno Virtual, en caso que no tenga instalado el virtual instalar con el comando:
+## Entorno Virtual, 
+en caso que no tenga instalado el virtual instalar con el comando:
 Para windows: pip install virtualenv
 
 `python -m virtualenv odoo-env`
