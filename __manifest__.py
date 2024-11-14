@@ -1,11 +1,9 @@
-# custom_addons/agenda/__manifest__.py
-
 {
-    'name': 'Agenda Escolar',
+    'name': 'Agenda Electronica',
     'version': '1.0',
-    'summary': 'Gestión escolar de estudiantes, maestros, cursos y tareas',
-    'description': 'Módulo para gestionar estudiantes, maestros, cursos, tareas, entregas y comunicaciones de la administración.',
-    'author': 'Rene el choma de martinez',
+    'summary': 'Agenda electronica para estudiantes, maestros y administrativos',
+    'description': 'Módulo para gestionar estudiantes, maestros, cursos, tareas, entregas y comunicados de la administración.',
+    'author': 'Grupo 1 SC Software',
     'depends': ['base', 'contacts', 'mail', 'portal'],
     'data': [
         'security/security.xml',
